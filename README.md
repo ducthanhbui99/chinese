@@ -9,3 +9,6 @@ Website GitHub Pages: https://ducthanhbui99.github.io/chinese/
 
 ## Chạy local
 Dùng máy chủ tĩnh: python -m http.server 8000 rồi mở http://localhost:8000/. GitHub Pages: main / root, .nojekyll. Dữ liệu và mã nguồn cập nhật trực tiếp qua GitHub. Tiến độ lưu localStorage, riêng giữa quiz nghĩa và luyện âm.
+
+## Ôn chữ sai
+Trả lời sai tự động thêm mục vào danh sách ôn tập trên thiết bị. Chọn **Ôn chữ sai** để luyện các mục sai thuộc nhóm đang chọn; trả lời đúng sẽ bỏ mục đó khỏi danh sách. Quiz nghĩa và luyện âm Nôm có danh sách riêng. Các câu trả lời trong chế độ ôn vẫn được tính vào thống kê hiện có. Lịch sử trước khi có tính năng không thể khôi phục theo từng chữ. Không cần đăng nhập; dữ liệu không đồng bộ giữa thiết bị.
